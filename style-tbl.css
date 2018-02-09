@@ -1,0 +1,29 @@
+  body {
+	  background-color: #efefef;
+  }
+
+  .block {
+    display: table; 
+    margin: 50px auto; 
+    text-align: center;
+  }
+  table {
+	  width: 630px;
+  }
+ 
+ td {
+	 width:60px;
+	 height:60px;	 
+ }
+ td:hover {
+	 background-color:#ff0000a8;
+	 cursor:pointer;	
+	 transition: 0.7s;
+ }
+ 
+ .tbl {
+	 border-color: #7c7c7c;
+	 border-collapse: collapse;	 
+ }
+
+ 
